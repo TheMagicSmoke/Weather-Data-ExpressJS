@@ -6,9 +6,11 @@
 * This server uses API defined in https://openweathermap.org/ to query the weather of a city entered by a user in the browser. The response obtained from OpenWeatherMap is displayed as a result in the browser.
 
 * Node Modules used :
+```
          > Express
          > HTTPS
          > body-parser
+```
 
 * This is a re-implementation of the same project that is given in the Udemy Course `The Complete 2020 Web Development Bootcamp` by `Angela Yu` on Udemy. I recommend this course to anyone interested in Web Development. She is my best teacher ever and the course is almost the perfect Full-Stack Development course out there.
 
